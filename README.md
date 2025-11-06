@@ -1,4 +1,4 @@
-# AWS 3-Tier HA (Anonymized) — Terraform
+# AWS 3-Tier HA — Terraform
 
 A production-lean baseline for a **highly available 3-tier web app** on AWS. The code is fully anonymized (no org, domain, or IP baked in) and designed for clarity + good defaults.
 
