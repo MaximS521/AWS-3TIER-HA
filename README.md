@@ -313,17 +313,3 @@ Wait until all NATs, ALBs, and RDS are fully deleted to avoid residual charges.
 
 ---
 
-## Roadmap (nice-to-have add-ons)
-
-- CloudWatch dashboards + alarms (5XX rate, unhealthy hosts, ASG capacity)
-- RDS Proxy for connection storm smoothing
-- Private Hosted Zone + resolver endpoints
-- App secrets read policy (least privilege) via instance profile
-- CloudFront + WAF in front of the Internet ALB
-- Blue/green or canary deployment pattern for the app tier
-
----
-
-## License
-
-MIT
