@@ -16,15 +16,6 @@ A production‑lean baseline for a **highly available 3‑tier web app** on AWS.
 
 > **Note:** This is a teaching‑friendly, cost‑aware baseline. Multi‑AZ RDS and per‑AZ NAT incur charges. Review variables and scale shapes before applying.
 
-## Quick start
-```bash
-cd terraform
-cp example.tfvars terraform.tfvars   # edit values
-terraform init
-terraform plan
-terraform apply
-```
-
 ## Diagram (Mermaid)
 ```mermaid
 graph LR
