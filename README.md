@@ -72,11 +72,3 @@ graph LR
 - `endpoints/` interface endpoints (SSM/EC2Messages/SSMMessages) + S3 gateway
 
 ---
-
-## Tear down
-```bash
-terraform destroy
-```
-
-## License
-MIT
